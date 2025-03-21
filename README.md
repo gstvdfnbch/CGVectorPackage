@@ -1,4 +1,4 @@
-# CGVector Extension
+# CGVector Package
 
 A Swift package that provides extended functionality for `CGVector` to support various mathematical and geometric operations, such as vector normalization, rotation, addition, subtraction, dot product, reflection, and more.
 
