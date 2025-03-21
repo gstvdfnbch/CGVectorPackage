@@ -177,12 +177,4 @@ print(angle)  // Output: 1.5707963 (or pi/2 radians)
 
 ## License
 
-This package is licensed under the MIT License. See LICENSE for more information.
-"""
-
-# Save the README file to a .md file for GitHub
-readme_file_path = "/mnt/data/README.md"
-with open(readme_file_path, "w") as readme_file:
-    readme_file.write(readme_text)
-
-readme_file_path
+This package is licensed under the MIT License. 
